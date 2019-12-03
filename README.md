@@ -38,8 +38,10 @@ https://www.banggood.com/3pcs-CJMCU-4599-Si4599-N-and-P-Channel-40V-D-S-MOSFET-E
 DC-DC **Boost Buck Adjustable** Step Up/Step Down Automatic Converter XL6009 Module about $2.67 (or $5 from UK warehouse):  
 https://www.banggood.com/DC-DC-Boost-Buck-Adjustable-Step-Up-Step-Down-Automatic-Converter-XL6009-Module-p-1087346.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 <br>
+<br>
 DC-DC 2.5V-15V to 3.3V **Fixed Output** Automatic Buck Boost Step Up Step Down $1.67 each:  
 https://www.banggood.com/DC-DC-2_5V-15V-to-3_3V-Fixed-Output-Automatic-Buck-Boost-Step-Up-Step-Down-Power-Supply-Module-p-1355827.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+<br>
 <br>
 0.36 Inch **Digital Voltmeter** DC 0V-100V Three Wires 3 Digit Battery Voltage Panel Meter about $2 each or $1 each in a pack fo 10:  
 https://www.banggood.com/805-Micro-0_36-Inch-Digital-Voltmeter-DC-0V-100V-Three-Wires-3-Digit-Battery-Voltage-Panel-Meter-LED-Display-for-RC-Airplane-Car-Boat-Motorcycle-p-1557653.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
@@ -47,6 +49,7 @@ https://www.banggood.com/805-Micro-0_36-Inch-Digital-Voltmeter-DC-0V-100V-Three-
 <img src="/images/Wemos_18650_UPS.JPG" width="12%" align="left">
 Wemos **18650 UPS/PSU** as used in the video, about $7 for THREE pieces ($3.68 if bought indivually):  
 https://www.banggood.com/3Pcs-Wemos-ESP32-ESP32S-18650-Battery-Charge-Shield-V3-Micro-USB-Type-A-USB-0_5A-Test-Charging-Protection-Board-For-Raspberry-Pi-Arduino-p-1448427.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+<br>
 <br>
 Interactive cheat sheet for calculating **potential (resistor) divider** values:  
 http://www.ohmslawcalculator.com/voltage-divider-calculator  
